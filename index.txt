@@ -1,9 +1,0 @@
-<script type="text/javascript">
-var urls = new Array();
-urls[0] = "https://docs.google.com/forms/d/e/1FAIpQLSeD0wTOvuHMTij-3tN6L4SF1Aw1fAwOYa-bzRBJqCgECrTKFw/viewform";
-urls[1] = "https://docs.google.com/forms/d/e/1FAIpQLSd4VEG-SOMWET0Kzu3PMosxQ7irY4_DJVeCaEKUYjcfPGkOaA/viewform";
-urls[2] = "https://docs.google.com/forms/d/e/1FAIpQLSdk9cVk9OB4o8gmFYXT9QV8fy1Bwnc2blQKR0vD9z9AxA5VsA/viewform";
-urls[3] = "https://docs.google.com/forms/d/e/1FAIpQLSdujNb5nGcuxqYTIgx13YGq60Y2d3eDk4Otp3WaZUr0Fb1TVQ/viewform";
-var random = Math.floor(Math.random()*urls.length);
-window.location = urls[random];
-</script>
